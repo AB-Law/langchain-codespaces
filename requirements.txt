@@ -1,3 +1,7 @@
 langchain
 openai
 langchain-google-vertexai
+chromadb
+tiktoken
+langchain_community
+langchainhub
