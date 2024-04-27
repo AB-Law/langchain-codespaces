@@ -6,3 +6,5 @@ tiktoken
 langchain_community
 langchainhub
 bs4
+langchain_openai
+pysqlite3-binary
